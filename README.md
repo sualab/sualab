@@ -1,4 +1,9 @@
-<h1 align="center">Hi, I'm Sua 🤓</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=28&duration=3500&pause=1500&color=FFFFFF&center=true&vCenter=true&width=720&height=60&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+Nice+to+e-meet+you%2C+I'm+Sua+%F0%9F%91%8B">
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=28&duration=3500&pause=1500&color=1F2328&center=true&vCenter=true&width=720&height=60&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+Nice+to+e-meet+you%2C+I'm+Sua+%F0%9F%91%8B" alt="안녕하세요! Nice to e-meet you, I'm Sua">
+  </picture>
+</p>
 
 <p align="center">
   <b>Precision Medicine PhD Student @ Sungkyunkwan University · Experienced Data Scientist</b><br>
