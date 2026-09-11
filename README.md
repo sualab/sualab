@@ -20,8 +20,6 @@
 - 🔬 **Research focus:** biomedical data analysis · AI in healthcare · bioinformatics
 - 🌏 Work comfortably in **English and Korean**
 
----
-
 ## Tech stack
 
 **Languages**
@@ -54,16 +52,6 @@
 ![Google BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## How I work
-
-- **Data insight communication:** I translate statistical results into clear, decision-ready stories for clinicians, researchers, and business teams.
-- **Cross-expert collaboration:** I work across medicine, engineering, and statistics, and I'm comfortable being the bridge between them.
-- **Business insight:** my industry background keeps my research grounded in what's useful, not just what's publishable.
-
----
 
 ## Let's connect
 
