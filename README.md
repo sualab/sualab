@@ -12,8 +12,6 @@
   <a href="https://orcid.org/YOUR-ORCID"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
 </p>
 
----
-
 ## About me
 
 - 🎓 **PhD student in Precision Medicine** at Sungkyunkwan University (SKKU)
