@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Sua 👋</h1>
+<h1 align="center">Hi, I'm Sua 🤓</h1>
 
 <p align="center">
-  <b>Precision Medicine PhD Student @ Sungkyunkwan University · Data Scientist</b><br>
+  <b>Precision Medicine PhD Student @ Sungkyunkwan University · Experienced Data Scientist</b><br>
   I turn complex biomedical data into rigorous, interpretable models and insights that hold up in real clinical settings.
 </p>
 
@@ -21,8 +21,6 @@
 - 📐 **BS & MS in Applied Mathematics and Statistics** from Stony Brook University
 - 🔬 **Research focus:** biomedical data analysis · AI in healthcare · bioinformatics
 - 🌏 Work comfortably in **English and Korean**
-
-**Currently:** finishing a manuscript on cross-lingual Parkinson's disease speech detection and building my first-author research pipeline in biomedical AI.
 
 ---
 
@@ -61,16 +59,6 @@
 
 ---
 
-## Featured projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**Cross-Lingual PD Speech Detection**](https://github.com/YOUR-USERNAME/REPO) | Tests whether voice biomarkers for Parkinson's disease generalise across English, Italian, Korean, and Turkish cohorts using leave-one-country-out validation. *(Manuscript in preparation)* | Python · Praat/Parselmouth · scikit-learn · XGBoost · Optuna · SHAP |
-| [**FDA AI/ML Medical Device Landscape**](https://github.com/YOUR-USERNAME/REPO) | Analyses 1,500+ FDA-authorized AI/ML medical devices (2001–2026) to study review timelines, validation reporting, and access gaps. | Python · pandas · statistical modelling |
-| [**Global Burden of Chlamydia, 1991–2023**](https://github.com/YOUR-USERNAME/REPO) | Maps age-, sex-, and region-specific trends across 225 locations using GBD 2023 data, with forecasting against WHO 2030 targets in progress. | Python · pandas · Matplotlib |
-
----
-
 ## How I work
 
 - **Data insight communication:** I translate statistical results into clear, decision-ready stories for clinicians, researchers, and business teams.
@@ -81,8 +69,7 @@
 
 ## Let's connect
 
-I'm always happy to talk about **biomedical AI, speech biomarkers, health data science, and research collaborations**.
-If you're working on something in this space, or you're hiring for it, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) or by [email](mailto:YOUR-EMAIL). I'd love to hear from you.
+If you're working on something in this space, or you're hiring for it, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/sua-lee-58478821a/) or by [email](mailto:reachsualee@gmail.com). I'd love to hear from you : ))
 
 <!--
 Optional: GitHub stats card. Replace YOUR-USERNAME and uncomment to show it.
